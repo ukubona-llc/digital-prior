@@ -63,7 +63,7 @@ From the TOC and preface:
 - **Part II: People (Dignity, Discipleship, Deployment)** → **Matrix/Attention (2) → Vector/Intention (1)**: Human layer—dignified employment and discipleship as the relational matrix and directed path. This is where values get weighted explicitly (no externalities; w_i ≠ 0).
 - **Part III: Spirit and Systems (Rhythms that Sustain)** → **Eigenmode/Reaction (E)**: The enduring frequency. What survives perturbations—Kingdom rhythms vs. worldly noise. Biblical truth as the invariant identity.
 - **Part IV: Expansion (Scaling for Kingdom Impact)** → **Geodesic navigation**: Multiplying under real constraints (Newtonian costs + relativistic knowing).
-- **Part V: Legacy (Li(ea)ving a Legacy)** → **Scalar/Action (0)**: The verdict. The composite that updates the prior. Business as ministry → L(θ^{t+1}).
+- **Part V: Legacy (Li(ea)ving a Legacy)** → **Scalar/Action (0)**: The verdict. The composite that updates the prior. Business as ministry → $L(θ^{t+1})$.
 
 Your note on chromatic scaling (brute-forcing musical essence across keys) and applying it to the book is spot-on. It surfaces the "Marxist undercurrent" you mentioned (labor → commodities → etc.) but reframes it Kingdom-first: explicit loss function with priors (L_0 + Σ w_i L_i) forces values alignment. No hiding behind "neutral" optimization—**business is ministry** is the non-negotiable eigenmode.
 
