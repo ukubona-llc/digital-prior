@@ -30,11 +30,11 @@ This renal map is mere demo, but it represents "scalar" (there are just numbers 
 
 #mato #thykingdomcome #ukubona 
 
-- I. θ^t. Kingdom Calling
-- II. L_0 + Σ w_i L_i. Dignity, Discipleship, Deployment 
-- III. f(σ^2, λ, ε). Systems, Rhythm, Truth
-- IV. ζ | ε_FGT |. Scaling for Kingdom Impact 
-- V. L(θ^{t+1}. Legacy 
+- I. `θ^t`. Kingdom Calling
+- II. `L_0 + Σ w_i L_i`. Dignity, Discipleship, Deployment 
+- III. `f(σ^2, λ, ε)`. Systems, Rhythm, Truth
+- IV. `ζ | ε_FGT |`. Scaling for Kingdom Impact 
+- V. `L(θ^{t+1}`. Legacy 
 
 Chromatic Scaling (Performing it across all 12 keys) of any musical piece from memory of the original key brute-forces the Eigenmode of musical essence and understanding in the player
 
