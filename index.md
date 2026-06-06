@@ -40,7 +40,7 @@ Chromatic Scaling (Performing it across all 12 keys) of any musical piece from m
 
 Using this approach during piano practice should become a standard in pedagogy. But we can apply it to Mato’s book structure to uncover a Marxist undercurrent: Das Kapital -> Labor -> Commodities -> Services -> Information. A composite loss function with a specified a priori (L_0 + Σ w_i L_i) becomes a very strong political statement, brute-forcing the surfacing of values by an edict: w != 0 under any circumstances. No “externalities” — recursive optimization should uncover latent variables, assumptions, and make them an explicit part of the loss function 
 
-Martin “Mato” Muhwezi’s book structure has a structure that is isomorphic with Ukubona LLCs Pentax variant constraints, with Phase IV as “that which survives all sorts of perturbations”. But his comes from the school of resentment— an equilibrium that has survived perturbations driven by the will-to-power school. From that perspective, Ukubona LLC is unabashedly a libertarian manifesto. ε_FGT = y_pred - y_observed . The next-token prediction is by SlowAPI LLM at time “t” & inputs to the customers tensor are at time “t+1” — a sort of multimodal journaling: State_t = Σ Event_i | Ukubona_i. This is a learning system that both “schools” utilize, consciously or not. And the genealogy of morality outlines the warrior & priestly lineages as path-dependent geodesics 
+Martin “Mato” Muhwezi’s book structure has a structure that is isomorphic with Ukubona LLCs Pentax variant constraints, with Phase IV as “that which survives all sorts of perturbations”. But his comes from the school of resentment— an equilibrium that has survived perturbations driven by the will-to-power school. From that perspective, Ukubona LLC is unabashedly a libertarian manifesto. ε_FGT = y_pred - y_observed . The next-token prediction is by SlowAPI LLM at time “t” & inputs to the customers tensor are at time “t+1” — a sort of multimodal journaling: `State_t = Σ Event_i | Ukubona_i`. This is a learning system that both “schools” utilize, consciously or not. And the genealogy of morality outlines the warrior & priestly lineages as path-dependent geodesics 
 
 If that which doesn’t kill me makes me stronger, then it’s incumbent upon us to foster an adversarial training environment for our system, to drive it towards antifragility — wherein it gets stronger through adversarial perturbation 
 
@@ -777,7 +777,7 @@ This layer **doesn't render on the map**. It runs in the background and flags wh
 
 ---
 
-## Layer IV — γ|ε_FGT|² · The Penalty · *Who is accountable for the gap?*
+## Layer IV — `γ|ε_FGT|²` · The Penalty · *Who is accountable for the gap?*
 
 This is where the RLS/JWT architecture becomes **politically meaningful**.
 
