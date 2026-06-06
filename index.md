@@ -2,11 +2,11 @@
 <script>
   window.MathJax = {
     tex: {
-      inlineMath: $$$$'$','$'$$,$$'\$','\$'$$$$,
-      displayMath: $$$$'$$','$$'$$,$$'\$$','\$$'$$$$,
+      inlineMath: [['$','$'],['\\(','\\)']],
+      displayMath: [['$$','$$'],['\\[','\\]']],
       processEscapes: true
     },
-    options: { skipHtmlTags: $$'script','noscript','style','textarea','pre','code'$$ }
+    options: { skipHtmlTags: ['script','noscript','style','textarea','pre','code'] }
   };
 </script>
 <script id="MathJax-script" async
