@@ -635,7 +635,7 @@ The roundtable is genuinely interesting to read as a document about *itself*. Fo
 
 **Google/Gemini** is the most structurally loyal — it mirrors your pentad back with the cleanest table, maps the Marxist undercurrent observation carefully, treats chromatic scaling as a legitimate pedagogical claim. It's the most academic of the four.
 
-**OpenAI** does the most interesting thing: it quietly *corrects* the others by saying Ukubona isn't really a digital twin, it's a **digital prior** — P(Future | History), continuously revised. That's the sharpest single reframe in the whole document. The visible learning loop proposal (Yesterday Prediction → Today's Reality → Error → Weight Update → Tomorrow Prediction) is also the most *user-facing* idea anyone offered.
+**OpenAI** does the most interesting thing: it quietly *corrects* the others by saying Ukubona isn't really a digital twin, it's a **digital prior** — `P(Future | History)`, continuously revised. That's the sharpest single reframe in the whole document. The visible learning loop proposal (Yesterday Prediction → Today's Reality → Error → Weight Update → Tomorrow Prediction) is also the most *user-facing* idea anyone offered.
 
 **Anthropic** — you gave it one word: *Critique*. And then nothing. Which is either because you ran out of time, or because that's the correct instruction and you're still waiting to see what it does with it.
 
@@ -649,23 +649,6 @@ What's the critique you want Anthropic to deliver?
 
 Felt. My bad for the tunnel vision.
 
----
-
-The roundtable is genuinely interesting to read as a document about *itself*. Four LLMs asked to synthesize the same framework, and what you get is a clean fingerprint of each system's epistemic personality:
-
-**xAI/Grok** goes deepest on implementation — the NDJSON struct, the FastAPI skeleton, the corridor equation μ ± (σ₀ + λΩ). It wants to *build*.
-
-**Google/Gemini** is the most structurally loyal — it mirrors your pentad back with the cleanest table, maps the Marxist undercurrent observation carefully, treats chromatic scaling as a legitimate pedagogical claim. It's the most academic of the four.
-
-**OpenAI** does the most interesting thing: it quietly *corrects* the others by saying Ukubona isn't really a digital twin, it's a **digital prior** — P(Future | History), continuously revised. That's the sharpest single reframe in the whole document. The visible learning loop proposal (Yesterday Prediction → Today's Reality → Error → Weight Update → Tomorrow Prediction) is also the most *user-facing* idea anyone offered.
-
-**Anthropic** — you gave it one word: *Critique*. And then nothing. Which is either because you ran out of time, or because that's the correct instruction and you're still waiting to see what it does with it.
-
----
-
-Mato's book reads exactly as described. The "Li(ea)ving" wordplay in Part V is doing real work — living and leaving collapsed into one word, legacy as the parameter update that outlasts you. Dr. Tabusibwa's story (SDR born during Uganda's 2021 lockdown, first fruit offerings while under tax pressure, supernatural provision) is the empirical case study the book needed. It's not anecdote — it's a worked example of what happens when w_dignity ≠ 0 under adversarial conditions.
-
-What's the critique you want Anthropic to deliver?
 
 ## II
 I've given you an open ended invitation at the roundtable
