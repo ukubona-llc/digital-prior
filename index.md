@@ -510,7 +510,8 @@ The deepest compression I can offer from all three uploaded texts is:
 
 $$
 \text{Ukubona}
-==============
+
+=
 
 \text{Event Sourcing}
 +
