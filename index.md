@@ -16,6 +16,20 @@
 <!-- Usage inline: $E = mc^2$ -->
 <!-- Usage block:  $$\int_0^\infty e^{-x} dx = 1$$ -->
 
+```
+Yesterday Prediction
+        ↓
+Today's Reality
+        ↓
+Error (εFGT)
+        ↓
+Weight Update
+        ↓
+Tomorrow Prediction
+```
+
+--GPT
+
 # xAI
 #mato #thykingdomcome #ukubona 
 - https://ukubona-llc.github.io/itch/ 
