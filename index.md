@@ -31,14 +31,14 @@ Tomorrow Prediction
 --GPT
 
 # xAI
-#mato #thykingdomcome #ukubona 
+#mato #thykingdomcome #ukubona #indicators
 - https://ukubona-llc.github.io/itch/ 
 - https://ukubona-llc.github.io/omega/ 
 - https://ukubona-llc.github.io/compression/ 
 - https://ukubona-llc.github.io/renal-map/
 - https://ukubona-llc.github.io/  
 
-This renal map is mere demo, but it represents "scalar" (there are just numbers on the ROYGBIV scale) and loss landscape of virtually anything in Uganda under the pervue of hte National Planning Authority, whose client is the Office of the prime minister, underwhom all cabinet mininsters attend. So a drop down menu specifies the "variable" or topic of interest eg kidney disease or bridge infrastructure. And some sort of scalar ultimately captures that at district leve -- and we can get down to even county level. This becomes the standards "language" of Ugandas digital twin, with federated data inputs streatming in real time across sectors to this one platform! Ukubona LLCTwin· Operating Ecosystem
+This renal map is mere demo, but it represents "scalar / [indicator](https://ukubona-llc.github.io/npa-03/)" (there are just numbers on the ROYGBIV scale) and loss landscape of virtually anything in Uganda under the pervue of hte National Planning Authority, whose client is the Office of the prime minister, underwhom all cabinet mininsters attend. So a drop down menu specifies the "variable" or topic of interest eg kidney disease or bridge infrastructure. And some sort of scalar ultimately captures that at district leve -- and we can get down to even county level. This becomes the standards "language" of Ugandas digital twin, with federated data inputs streatming in real time across sectors to this one platform! Ukubona LLCTwin· Operating Ecosystem
 
 ---
 
