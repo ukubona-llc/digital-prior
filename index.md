@@ -566,7 +566,7 @@ The roundtable is genuinely interesting to read as a document about *itself*. Fo
 
 **Google/Gemini** is the most structurally loyal — it mirrors your pentad back with the cleanest table, maps the Marxist undercurrent observation carefully, treats chromatic scaling as a legitimate pedagogical claim. It's the most academic of the four.
 
-**OpenAI** does the most interesting thing: it quietly *corrects* the others by saying Ukubona isn't really a digital twin, it's a **digital prior** — P(Future | History), continuously revised. That's the sharpest single reframe in the whole document. The visible learning loop proposal (Yesterday Prediction → Today's Reality → Error → Weight Update → Tomorrow Prediction) is also the most *user-facing* idea anyone offered.
+**OpenAI** does the most interesting thing: it quietly *corrects* the others by saying Ukubona isn't really a digital twin, it's a **digital prior** — `P(Future | History)`, continuously revised. That's the sharpest single reframe in the whole document. The visible learning loop proposal (Yesterday Prediction → Today's Reality → Error → Weight Update → Tomorrow Prediction) is also the most *user-facing* idea anyone offered.
 
 **Anthropic** — you gave it one word: *Critique*. And then nothing. Which is either because you ran out of time, or because that's the correct instruction and you're still waiting to see what it does with it.
 
