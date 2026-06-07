@@ -46,7 +46,7 @@ Today's Reality (Federated Ground Truth)
         ↓
 Error (εFGT)
         ↓
-**Prior Update**
+Prior Update
         ↓
 Tomorrow's Prediction
 ```
